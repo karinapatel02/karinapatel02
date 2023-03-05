@@ -1,6 +1,11 @@
 ### **Hi there, I'm Karina** 👋
 
-### I am a Full Stack Developer
+## I am a Full Stack Developer
+
+I am currently pursuing my Master's in Computer Science from University of Texas at Arlington, and passionate about Full-Stack Development.
+
+### Connect with me:
+
 
 <!--
 **karinapatel02/karinapatel02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
