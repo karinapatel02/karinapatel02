@@ -2,7 +2,7 @@
 
 ## I am a Full Stack Developer
 
-I am currently pursuing my Master's in Computer Science from University of Texas at Arlington, and passionate about Full-Stack Development, Database Development.
+I am currently pursuing my Master's in Computer Science from University of Texas at Arlington, and passionate about Full-Stack Development, and Database Development.
 
 ### Connect with me:
 
