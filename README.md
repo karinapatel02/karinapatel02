@@ -1,4 +1,6 @@
-### Hi there 👋
+### **Hi there, I'm Karina** 👋
+
+### I am a Full Stack Developer
 
 <!--
 **karinapatel02/karinapatel02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
