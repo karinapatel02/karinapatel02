@@ -2,10 +2,13 @@
 
 ## I am a Full Stack Developer
 
-I am currently pursuing my Master's in Computer Science from University of Texas at Arlington, and passionate about Full-Stack Development.
+I am currently pursuing my Master's in Computer Science from University of Texas at Arlington, and passionate about Full-Stack Development, and Database Development.
 
 ### Connect with me:
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%2312100E.svg?&style=for-the-badge&logo=LinkedIn&logoColor=blue)][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/karina-patel-79b9081a0/
 
 <!--
 **karinapatel02/karinapatel02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
