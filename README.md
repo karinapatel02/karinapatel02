@@ -4,6 +4,8 @@
 
 I am currently pursuing my Master's in Computer Science from University of Texas at Arlington, and passionate about Full-Stack Development, and Database Development.
 
+An ambitious, dedicated and diligent person who is always learning something new.
+
 ### Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%2312100E.svg?&style=for-the-badge&logo=LinkedIn&logoColor=blue)][linkedin]
