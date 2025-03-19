@@ -1,8 +1,8 @@
 ### **Hi there, I'm Karina** 👋
 
-## I am a Full Stack Developer
+## I am a Data Analyst
 
-Master’s in Computer Science graduate offering a strong foundation in software engineering and programming principles across multiple platforms. Experienced in object-oriented programming; developing, testing, and debugging code; designing interfaces; and administering systems and networks. Actively looking for opportunities as a Full-Stack/Software Developer.
+Analytical professional with a Master's in Computer Science, adept at extracting insights from complex datasets. Skilled in research, and analysis. Thrives in fast-paced environments, committed to excellence and driving business success. Have a strong foundation in software engineering and programming principles across multiple platforms. Experienced in object-oriented programming; developing, testing, and debugging code. Actively looking for opportunities as a Data Scientist.
 
 An ambitious, dedicated, and diligent person who is always learning something new.
 
