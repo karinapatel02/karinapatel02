@@ -1,9 +1,13 @@
 ### **Hi there, I'm Karina** 👋
 
-## I am a Data Analyst
+## I am a Data Scientist
 
-Analytical professional with a Master's in Computer Science, adept at extracting insights from complex datasets. Skilled in research, and analysis. Thrives in fast-paced environments, committed to excellence and driving business success. Have a strong foundation in software engineering and programming principles across multiple platforms. Experienced in object-oriented programming; developing, testing, and debugging code. Actively looking for opportunities as a Data Scientist.
+An analytical and results-driven professional with a Master’s in Computer Science and a deep passion for data. I love transforming complex datasets into meaningful insights, with hands-on experience in machine learning, NLP, and statistical analysis. My work has created tangible business impact—such as driving 15Cr+ savings for an enterprise client—while fueling my curiosity to keep learning and experimenting.
 
+I bring strong skills in Python, SQL, Excel, Power BI, and model deployment, backed by a solid foundation in software engineering and object-oriented programming. I thrive in fast-paced environments, enjoy solving problems creatively, and love translating data into stories that drive decisions and innovation.
+
+🚀 Open to collaborating on cutting-edge, data-driven projects that challenge conventional thinking.
+☕ Always up for good coffee conversations!
 An ambitious, dedicated, and diligent person who is always learning something new.
 
 ### Connect with me:
@@ -11,6 +15,10 @@ An ambitious, dedicated, and diligent person who is always learning something ne
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%2312100E.svg?&style=for-the-badge&logo=LinkedIn&logoColor=blue)][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/karina-patel--/
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%2312100E.svg?&style=for-the-badge&logo=LinkedIn&logoColor=blue)][Medium]
+
+[Medium]: https://medium.com/@karinapatel196661
 
 <!--
 **karinapatel02/karinapatel02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
