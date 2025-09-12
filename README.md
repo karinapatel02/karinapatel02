@@ -16,7 +16,7 @@ An ambitious, dedicated, and diligent person who is always learning something ne
 
 [linkedin]: https://www.linkedin.com/in/karina-patel--/
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%2312100E.svg?&style=for-the-badge&logo=LinkedIn&logoColor=blue)][Medium]
+[![Medium](https://img.shields.io/badge/LinkedIn-%2312100E.svg?&style=for-the-badge&logo=LinkedIn&logoColor=blue)][Medium]
 
 [Medium]: https://medium.com/@karinapatel196661
 
