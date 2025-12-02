@@ -2,7 +2,7 @@
 
 ## I am a Data Scientist
 
-An analytical and results-driven professional with a Master’s in Computer Science and a deep passion for data. I love transforming complex datasets into meaningful insights, with hands-on experience in machine learning, NLP, and statistical analysis. My work has created tangible business impact—such as driving 15Cr+ savings for an enterprise client—while fueling my curiosity to keep learning and experimenting.
+An analytical and results-driven professional with a Master’s in Computer Science and a deep passion for data. I love transforming complex datasets into meaningful insights, with hands-on experience in machine learning, NLP, and statistical analysis. My work has created tangible business impact, such as driving 15Cr+ savings for an enterprise client, while fueling my curiosity to keep learning and experimenting.
 
 I bring strong skills in Python, SQL, Excel, Power BI, and model deployment, backed by a solid foundation in software engineering and object-oriented programming. I thrive in fast-paced environments, enjoy solving problems creatively, and love translating data into stories that drive decisions and innovation.
 
